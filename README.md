@@ -1,2 +1,2 @@
-# TestGit
-This is for testing git
+# Exercices1
+Exercices seance 1
